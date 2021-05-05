@@ -2,7 +2,7 @@
 
 ### Day 0: May 4, 2021 
 
-**Today's Progress**: Done DSA Cracker sheet
+**Today's Progress**: 4 DSA Cracker sheet question
 
 **Thoughts:** Learned new way to solve problem
 
@@ -11,4 +11,23 @@
 
 2.[The Celebrity Problem](https://practice.geeksforgeeks.org/problems/the-celebrity-problem/1)
 
+3.[Reverse a stack using recursion](https://www.geeksforgeeks.org/reverse-a-stack-using-recursion/)
+
+4.[Evaluation of Postfix Expression](https://practice.geeksforgeeks.org/problems/evaluation-of-postfix-expression1735/1)
+
  **Link(s) to work**:See DAY 0 Folder
+
+ ### Day 1: May 5, 2021 
+
+**Today's Progress**: 3 DSA Cracker sheet question
+
+**Thoughts:** Good
+
+**work:**
+1.[Sort a stack](https://practice.geeksforgeeks.org/problems/sort-a-stack/1)
+
+2.[Merge Interval](https://leetcode.com/problems/merge-intervals/submissions/)
+
+3.[Trapping rain water](https://practice.geeksforgeeks.org/problems/trapping-rain-water-1587115621/1)
+
+ **Link(s) to work**:See DAY 1 Folder
