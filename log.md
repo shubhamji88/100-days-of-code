@@ -31,3 +31,15 @@
 3.[Trapping rain water](https://practice.geeksforgeeks.org/problems/trapping-rain-water-1587115621/1)
 
  **Link(s) to work**:See DAY 1 Folder
+ ### Day 2: May 6, 2021 
+
+**Today's Progress**: 2 DSA Cracker sheet question
+
+**Thoughts:** better feeling about stacks
+
+**work:**
+1.Nearest Greater/Smaller to Left/Right
+
+3.[Stock span problem ](https://practice.geeksforgeeks.org/problems/stock-span-problem-1587115621/1#)
+
+ **Link(s) to work**:See DAY 1 Folder
