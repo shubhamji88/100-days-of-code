@@ -57,3 +57,27 @@
 
 
  **Link(s) to work**:See DAY 3 Folder
+
+  ### Day 4: May 7, 2021 
+**Today's Progress**: DSA Cracker sheet question
+
+**Thoughts:** good
+
+   1.valid substring
+
+**Link(s) to work**:See DAY 4 Folder
+
+"was unable to continue as there was some issue in my laptop"
+
+  ### Day 5: May 11, 2021 
+
+**Today's Progress**: 2 DSA Cracker sheet question
+
+**Thoughts:** better feeling about stacks
+
+**work:**
+
+1.[Floor in a Sorted Array ](https://practice.geeksforgeeks.org/problems/floor-in-a-sorted-array-1587115620/1)
+2.[Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)
+3.[ Find Peak Element](https://leetcode.com/problems/find-peak-element/)
+4.[Search in a matrix](https://practice.geeksforgeeks.org/problems/search-in-a-matrix17201720/1)
