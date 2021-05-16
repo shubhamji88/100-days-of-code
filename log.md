@@ -81,3 +81,13 @@
 2.[Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)
 3.[ Find Peak Element](https://leetcode.com/problems/find-peak-element/)
 4.[Search in a matrix](https://practice.geeksforgeeks.org/problems/search-in-a-matrix17201720/1)
+
+  ### Day 8: May 11, 2021 
+
+**Today's Progress**: 4 Heap questions
+
+**Thoughts:** better feeling about heaps
+
+**work:**
+See Day 8 folder
+

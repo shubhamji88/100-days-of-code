@@ -18,6 +18,8 @@ class Solution{
         int res=-1;
         while(start<=end){
             int mid = start +(end-start)/2;
+            if(v[mid]==x)
+                return mid;
             if(v[mid]>x)
                 end=mid-1;
             else{
